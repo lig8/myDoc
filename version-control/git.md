@@ -26,6 +26,7 @@ git commit -m 'my comments'
 git push
 
 # undo modification in staging area. 
+# this command will discard all your modification in staging area.
 git restore --staged .
 
 ```

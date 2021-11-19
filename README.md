@@ -4,5 +4,5 @@
 
 - 第1篇：[书法家](tt-composition/001calligrapher.md)
 
-- 第2篇：[修车摊](tt-composition/002bicycle.md)
+- 第2篇：[修车的老爷爷](tt-composition/002bicycle.md)
 
