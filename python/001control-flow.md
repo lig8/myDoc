@@ -4,7 +4,10 @@
 
 
 ```python
-code here
+if ...:
+elif...:
+else...:
+    ...
 ```
 
 
@@ -12,16 +15,20 @@ code here
 - [2、for 循环]()
 
 ```python
-code here
+for i in list:
+    pass
 ```
 
 - [3、while循环]()
 
 ```python
-code here
+while True:
+    pass
+else:
+    pass
 ```
 
-- [break、pass、continue]()
+- [break、pass、continue]()语句
 
 ```python
 code here

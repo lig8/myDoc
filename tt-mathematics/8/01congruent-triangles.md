@@ -11,3 +11,11 @@
 
 ![](https://raw.githubusercontent.com/lig8/myData/main/mathematics/08/pic/01congruent-triangles/congruent-triangles012a.jpg)
 
+
+
+
+
+
+$$
+x^2
+$$
