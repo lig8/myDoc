@@ -6,7 +6,7 @@
 
 - [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-
+4567
 
 ## 0、访问权限
 
@@ -34,6 +34,9 @@ git config --global core.quotepath false
 
 
 ## 2、git 最常用的6个命令
+
+- [merge与rebase的区别](http://gitbook.liuhui998.com/4_2.html)
+- [merge noff](https://www.cnblogs.com/xueweihan/p/5743327.html)
 
 ![](https://raw.githubusercontent.com/lig8/myData/main/programming/git/git1.png)
 
