@@ -39,6 +39,7 @@ git config --global core.quotepath false
 
 - [merge与rebase的区别](http://gitbook.liuhui998.com/4_2.html)
 - [merge noff](https://www.cnblogs.com/xueweihan/p/5743327.html)
+- [分支与合并](http://gitbook.liuhui998.com/3_3.html)
 
 ![](https://raw.githubusercontent.com/lig8/myData/main/programming/git/git1.png)
 
