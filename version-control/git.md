@@ -6,7 +6,11 @@
 
 - [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
+<<<<<<< HEAD
 4567
+=======
+123
+>>>>>>> a8924b7b623bdd088d1a2c0b48a96ee7fc61ef93
 
 ## 0、访问权限
 
