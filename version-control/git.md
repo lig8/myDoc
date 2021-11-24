@@ -1,6 +1,30 @@
 # git 使用简介
 
+## 0、参考文档
+
+- [如何高效使用github](https://www.yangzhiping.com/tech/github.html)
+
+- [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+
+
+## 0、访问权限
+
+### a、personal access token方式
+
+- [官方文档](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 
+- [如何存贮在.git中](https://www.jianshu.com/p/e5a3530cb021)
+
+- [如何存贮在windows凭证中](https://segmentfault.com/a/1190000040544939?utm_source=sf-similar-article)
+
+### b、SSH key方式
+
+- [官方文档](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh)
+- [多密钥管理](https://www.cnblogs.com/logchen/p/10543808.html)
+
 ## 1、git基本设置
+
+### a、设置git bash支持中文显示
 
 ```bash
 # git bash support chinese
