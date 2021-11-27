@@ -48,13 +48,23 @@ git add -A
 
 # commit all modified files in staging area to local Repository
 git commit -m 'my comments'
+# add commit comments in external editor.
+git commit -a
 
 # push modified files from local Repository to remote Repository
 git push
 
+# push your code to other branch
+git push origin branch_name
+
 # undo modification in staging area. 
 # this command will discard all your modification in staging area.
 git restore --staged .
+
+#update local repository to latest code.
+git pull
+
+
 
 ```
 
