@@ -6,13 +6,6 @@
 
 - [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-abc
-
-def
-
-mybranch test
-
-
 
 ## 0、访问权限
 
