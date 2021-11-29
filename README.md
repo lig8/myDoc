@@ -1,11 +1,19 @@
 # 文档目录
 
-## 天天的范文
+## 范文
+- 第1篇：[老师](tt-composition/template/001teacher.md)
+
+- 第2篇：[她触动了我](tt-composition/template/002girl.md)
+
+- 第3篇：[发传单的小哥哥](tt-composition/template/003boy.md)
+
+## 天天作文
 
 - 第1篇：[书法家](tt-composition/001calligrapher.md)
 
 - 第2篇：[修车的老爷爷](tt-composition/002bicycle.md)
 
+- 第3篇：[老师](tt-composition/003teacher.md)
 
 
 ## python
