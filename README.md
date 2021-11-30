@@ -7,13 +7,18 @@
 
 - 第3篇：[发传单的小哥哥](tt-composition/template/003boy.md)
 
+- 第4篇：[带着苹果的清香出发](tt-composition/template/004father.md)
+
+- 第5篇：[青山不老](tt-composition/template/005young_forever.md)
+
+
 ## 天天作文
 
 - 第1篇：[书法家](tt-composition/001calligrapher.md)
 
 - 第2篇：[修车的老爷爷](tt-composition/002bicycle.md)
 
-- 第3篇：[老师](tt-composition/003teacher.md)
+- 第3篇：[清洁工](tt-composition/003sanitation_worker.md)
 
 
 ## python
