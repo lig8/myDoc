@@ -99,3 +99,62 @@ git pull
 
 ![](https://raw.githubusercontent.com/lig8/myData/main/programming/git/git3.png)
 
+
+
+```
+git reset HEAD
+git reset --soft --hard
+git tag -d
+git clean -nxdf（查看要删除的文件及目录，确认无误后再使用下面的命令进行删除）
+git checkout . && git clean -xdf
+git reset 删除的是已跟踪的文件，将已commit的回退。
+git clean 删除的是未跟踪的文件
+git checkout . #本地所有修改的。没有的提交的，都返回到原来的状态
+git stash #把所有没有提交的修改暂存到stash里面。可用git stash pop回复。
+ 
+git reset --hard HASH #返回到某个节点，不保留修改，已有的改动会丢失。
+git reset --soft HASH #返回到某个节点, 保留修改，已有的改动会保留，在未提交中，git status或git diff可看。
+ 
+git clean -df #返回到某个节点，（未跟踪文件的删除）
+git clean 参数
+ -n 不实际删除，只是进行演练，展示将要进行的操作，有哪些文件将要被删除。（可先使用该命令参数，然后再决定是否执行）
+ -f 删除文件
+ -i 显示将要删除的文件
+ -d 递归删除目录及文件（未跟踪的）
+ -q 仅显示错误，成功删除的文件不显示
+ 
+ 
+ 回退push过的代码：
+1. git log
+2. git reset --soft 43dc0de914173a1a8793a7eac31dbb26057bbee4
+3. git push origin branch_name --force
+
+
+删除分支：
+git branch -a
+git branch -D branch_name
+git push origin --delete branch_name  
+
+删除tag：
+git tag -l
+git tag -d tag_name
+git push origin :refs/tags/tag_name
+
+push tags:
+git push origin --tags
+git push origin tag_name
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
