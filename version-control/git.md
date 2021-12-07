@@ -101,7 +101,7 @@ git pull
 
 
 
-```
+```bash
 git reset HEAD
 git reset --soft --hard
 git tag -d
@@ -148,9 +148,18 @@ git push origin tag_name
 
 
 
+#### 新建代码仓库
 
+* 首先要在服务器上新建一个空仓库，不要有任何东西    https://gitee.com/lig0/pyStudy.git
 
-
+```bash
+cd pyStudy
+git init
+git add -A
+git commit -m "init repository"
+git remote add origin https://gitee.com/lig0/pyStudy.git
+git push -u origin master
+```
 
 
 
